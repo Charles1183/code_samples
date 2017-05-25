@@ -1,3 +1,5 @@
+Charles Bryant's code_sample repository has changed.
+
 This repository has recently changed. 
 The programs that where in this repository have been given their own repository 
 and can be found at https://github.com/Charles1183?tab=repositories. 
